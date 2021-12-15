@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello visualstadio!\n";
+    std::cout << "リモートで変更\n";
     std::cout << "新規ブランチでこの行を追加\n";
 
 }
